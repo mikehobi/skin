@@ -727,3 +727,10 @@ document.querySelectorAll('.field').forEach(function (elCharContainer) {
         }
     });
 })();
+
+// DONUT GRAPH
+document.querySelectorAll('.donut-graph').forEach(function (widgetEl) {
+    RovingTabindex.createLinear(widgetEl, '.donut-graph__segment', {
+      wrap: true
+    });
+})    

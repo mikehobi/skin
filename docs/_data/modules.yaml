@@ -6,6 +6,8 @@ list:
   - button
   - carousel
   - calendar
+  - chart
+  - chart-legend
   - checkbox
   - chip
   - chips-combobox
@@ -14,6 +16,7 @@ list:
   - cta-button
   - date-textbox
   - details
+  - donut-graph
   - drawer-dialog
   - fullscreen-dialog
   - eek
